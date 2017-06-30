@@ -5,9 +5,9 @@
  */
 
 /* Howto: https://compodoc.github.io/website/guides/tips-and-tricks.html */
-@import "https://cloukit.github.io/compodoc-theme/theme/dist/css/reset.css";
-@import "https://cloukit.github.io/compodoc-theme/theme/dist/css/bootstrap.min.css";
-@import "https://cloukit.github.io/compodoc-theme/theme/dist/css/bootstrap-card.css";
-@import "https://cloukit.github.io/compodoc-theme/theme/dist/css/compodoc.css";
-@import "https://cloukit.github.io/compodoc-theme/theme/cloukit-theme.css";
+@import "./dist/css/reset.css";
+@import "./dist/css/bootstrap.min.css";
+@import "./dist/css/bootstrap-card.css";
+@import "./dist/css/compodoc.css";
+@import "./cloukit-theme.css";
 @import "https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css";
