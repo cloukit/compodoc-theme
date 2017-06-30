@@ -87,3 +87,12 @@ pre {
 #book-search-input {
     display: none;
 }
+/* FIX MENUE */
+.menu-toggler {
+    cursor: pointer;
+    padding: 0;
+    font-size: 16px;
+    position: relative;
+    right: 0;
+    top: 0;
+}
