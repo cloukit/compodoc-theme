@@ -10,4 +10,6 @@
 @import "./dist/css/bootstrap-card.css";
 @import "./dist/css/compodoc.css";
 @import "./cloukit-theme.css";
+@import "./prism.css";
 @import "https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css";
+
