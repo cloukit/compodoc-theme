@@ -82,3 +82,8 @@ pre {
 .menu > nav > ul > li:nth-child(4) {
     display:none;   
 }
+
+/* HIDE SEARCH */
+#book-search-input {
+    display: none;
+}
