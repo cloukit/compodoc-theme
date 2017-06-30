@@ -5,8 +5,8 @@
  */
 
 /* Howto: https://compodoc.github.io/website/guides/tips-and-tricks.html */
-@import "./dist/reset.css";
-@import "./dist/bootstrap.css";
-@import "./dist/bootstrap-cards.css";
-@import "./dist/compodoc.css";
-@import "./dist/cloukit-theme.css";
+@import "https://cloukit.github.io/compodoc-theme/theme/dist/reset.css";
+@import "https://cloukit.github.io/compodoc-theme/theme/dist/bootstrap.css";
+@import "https://cloukit.github.io/compodoc-theme/theme/dist/bootstrap-cards.css";
+@import "https://cloukit.github.io/compodoc-theme/theme/dist/compodoc.css";
+@import "https://cloukit.github.io/compodoc-theme/theme/dist/cloukit-theme.css";
