@@ -95,8 +95,3 @@ pre {
     right: 0;
     top: 0;
 }
-
-/* FIX COMPODOC LOGO */
-.copyright img {
-    width: 150px;
-}
